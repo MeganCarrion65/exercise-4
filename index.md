@@ -23,7 +23,7 @@
    <img src="coral-reef-very-high.jpg" alt="very high quality jpg" />
     <p>Very High quality (80%). File size:154.7K </p>
 
-   <img src="coral-reef-maximum.jpg" alt="maximum quality jpg" />
+   <img src="coral-reef-maximum.jpg.jpg" alt="maximum quality jpg" />
     <p> Maximum quality (100%). File size:298.6K </p>
 
 
